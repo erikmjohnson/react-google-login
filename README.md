@@ -200,7 +200,6 @@ More details can be found in the official Google docs:
 ## Dev Server
 ```
 npm run start
-
 ```
 Default dev server runs at localost:8080 in browser.
 You can set IP and PORT in webpack.config.dev.js
