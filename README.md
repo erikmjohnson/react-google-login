@@ -2,7 +2,6 @@
 
 > A Google oAUth Sign-in / Log-in Component for React
 
-
 ## Install
 ```
 npm install react-google-login
@@ -209,12 +208,21 @@ You can set IP and PORT in webpack.config.dev.js
 ## Run Tests
 ```
 npm run test:watch
-
 ```
 
 ## Production Bundle
 ```
 npm run bundle
+```
+
+## Deploy Storybook
+```
+npm run deploy-storybook
+```
+
+##Deployed Storybook Link
+```
+https://anthonyjgrove.github.io/react-google-login/
 ```
 
 ##### Checkout my other login: [React Instagram Login](https://github.com/anthonyjgrove/react-instagram-login)
