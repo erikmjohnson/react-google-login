@@ -3,9 +3,8 @@
 > A Google oAUth Sign-in / Log-in Component for React
 
 ##Storybook
-```
-https://anthonyjgrove.github.io/react-google-login/
-```
+
+[Demo Link](https://anthonyjgrove.github.io/react-google-login/)
 
 ## Install
 ``` 
