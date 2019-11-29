@@ -2,11 +2,16 @@
 
 > A Google oAUth Sign-in / Log-in Component for React
 
-## Install
+##Storybook
 ```
-npm install react-google-login
+https://anthonyjgrove.github.io/react-google-login/
+```
 
+## Install
+``` 
+npm install react-google-login
 ```
+
 ## How to use
 ```js
 import React from 'react';
@@ -217,11 +222,6 @@ npm run bundle
 ## Deploy Storybook
 ```
 npm run deploy-storybook
-```
-
-##Deployed Storybook Link
-```
-https://anthonyjgrove.github.io/react-google-login/
 ```
 
 ##### Checkout my other login: [React Instagram Login](https://github.com/anthonyjgrove/react-instagram-login)
