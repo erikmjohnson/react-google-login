@@ -18,7 +18,7 @@ jobs:
         run: npm ci
       - name: Bundle
         run: npm run bundle --if-present
-      - name: Lint
+      - name: lint
         run: npm run lint
       - name: Test
         run: npm test
